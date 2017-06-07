@@ -6,7 +6,7 @@ run `sbt slides/tut` to compile slides using [tut][tut] at `slides/tut-out/slide
 
 All code in `core` module is accessible in your slides
 
-The slides are available at [julien-truffaut.github.io/excel-parser/](julien-truffaut.github.io/excel-parser/).
+The slides are available at [https://julien-truffaut.github.io/excel-parser/](https://julien-truffaut.github.io/excel-parser/).
 
 
 This project was generated using [Giter8][g8] with template [presentation.g8][presentation.g8]
